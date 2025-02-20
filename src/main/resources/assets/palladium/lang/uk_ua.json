@@ -27,5 +27,5 @@
   "palladium.config.lightweight_attack_ai": "Покращений пошук цілей у мобів",
   "palladium.config.lightweight_attack_ai.tooltip": "Покращує пошук цілі для котів і вовків",
   "palladium.config.lightweight_flee_ai": "Покращений пошук позиції для мобів",
-  "palladium.config.lightweight_flee_ai.tooltip": "Оптимізує пошук позиції для задачі «бігу»/«паніки» для вовків і кроликів",
+  "palladium.config.lightweight_flee_ai.tooltip": "Оптимізує пошук позиції для задачі «бігу»/«паніки» для вовків і кроликів"
 }
